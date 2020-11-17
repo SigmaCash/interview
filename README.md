@@ -62,7 +62,7 @@ Fork this repository to a repository on your own github account and add the solu
 * Use of react-navigation - https://reactnavigation.org/
 * Use of axios with Instance configuration, allowing the configuration of interceptors.
 * Use of redux
-* Use of redux-rhunk or redux-saga
+* Use of redux-thunk or redux-saga
 * Adding a spinner when information is loading
 * Deal with errors coming from the backend
 * Some sort of Unit Test
