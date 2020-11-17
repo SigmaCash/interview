@@ -69,5 +69,5 @@ Fork this repository to a repository on your own github account and add the solu
 * Some sort of Integration Test
 * Divide the application in different pages and use a router
 * Show common tools used for you daily development environment (linters, code formatter, git workflow, docker and so on)
-* Deploy the project somewhere
+* Publish the project somewhere
 
