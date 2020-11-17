@@ -20,7 +20,7 @@ Link to the figma board : https://www.figma.com/file/QdtVLHNJgR9Z55DFlggrv1/Desa
 
 
 <p style="justify-content: space-around;">
-  <img src="https://github.com/SigmaCash/interview/blob/react-native/Screenshot%20from%202020-11-16%2023-05-07.png?raw=true"/>
+  <img src="https://github.com/SigmaCash/interview/blob/react-native/screenshot.png?raw=true"/>
 </p>
 
 ## Retrieving data
