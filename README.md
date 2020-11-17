@@ -1,6 +1,7 @@
 # React Native Interview Project
 This is a small project for a react native interview.
-There is not timeline on how long this interview needs to be, some people says the basic version would not take more than 1 hour ( with all the setup already in place )... And the more complete version would take 1 or 2 days , if you do have a full time work position.
+
+There is no timeline on how long this interview needs to be, some people says the basic version would not take more than 1 hour ( with all the setup already in place )... And the more complete version would take 1 or 2 days , if you do have a full time work position.
 
 ## Screens
 
@@ -57,7 +58,7 @@ Fork this repository to a repository on your own github account and add the solu
 ## Bonus (don't need to be in the below specific order)
 
 * Use ES6 syntax including arrow functions, destructuring and async/await
-* Use of Promises where you feels it's needed
+* Use of Promises where you feel it is needed
 * Use of styled-components/native - https://styled-components.com/
 * Use of react-navigation - https://reactnavigation.org/
 * Use of axios with Instance configuration, allowing the configuration of interceptors.
